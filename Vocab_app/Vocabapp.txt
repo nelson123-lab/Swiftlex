@@ -1,0 +1,7 @@
+After turning on the vocabtool if we are reading any blogs or anything in the computer if we select a word it automatically searches the word and shows the meaning in a dialog box inside the page itself.
+
+Challenges
+-How, whom, where 
+-How to scrap data 
+-How to make a dialog box
+-How to detect a selected text

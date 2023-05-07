@@ -1,0 +1,2 @@
+--Grammarly is trained on naturally written text, so it’s good at spotting issues that occur naturally when people write. It’s less good at handling sentences where mistakes have been deliberately inserted because they often don’t resemble naturally occurring mistakes.
+
