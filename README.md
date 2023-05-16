@@ -34,5 +34,7 @@ Publishing a Chrome extension to the Chrome Web Store involves a few steps. Here
 Note that there may be additional steps or requirements depending on the type of extension you are publishing and the region you are located in. Make sure to review the Chrome Web Store developer documentation and guidelines for detailed instructions.
 
 References:
-[Octopare scrape data from google search](https://youtu.be/_R8pNl41iUg)
-[Complete Guide On PyDictionary: A “Real” Dictionary Module in Python](https://analyticsindiamag.com/complete-guide-on-pydictionary-a-real-dictionary-module-in-python/#:~:text=listed%20in%20it.-,PyDictionary%20is%20an%20open%2Dsource%20python%20library%20that%20is%20used,linguistic%20properties%20of%20different%20words.)
+1. [Octopare scrape data from google search](https://youtu.be/_R8pNl41iUg)
+2. [Complete Guide On PyDictionary: A “Real” Dictionary Module in Python](https://analyticsindiamag.com/complete-guide-on-pydictionary-a-real-dictionary-module-in-python/#:~:text=listed%20in%20it.-,PyDictionary%20is%20an%20open%2Dsource%20python%20library%20that%20is%20used,linguistic%20properties%20of%20different%20words.)
+3. [How To Get Mouse Clicks With Python](https://analyticsindiamag.com/complete-guide-on-pydictionary-a-real-dictionary-module-in-python/#:~:text=listed%20in%20it.-,PyDictionary%20is%20an%20open%2Dsource%20python%20library%20that%20is%20used,linguistic%20properties%20of%20different%20words.)
+4. 
