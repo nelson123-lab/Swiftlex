@@ -1,1 +1,11 @@
 from PyDictionary import PyDictionary
+dictionary1 = PyDictionary()
+dictionary2 = PyDictionary("exclusive","precipitation")
+print(dictionary1.meaning('Archive'))
+print(dictionary2.printMeanings()) 
+print(dictionary1.synonym("Archive"))
+print (dictionary2.getSynonyms())
+dictionary1.antonym("Archive")
+print (dictionary2.getAntonyms())
+dictionary1.translate("Archive", "hi")
+print (dictionary2.translateTo("hi"))
