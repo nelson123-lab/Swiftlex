@@ -15,7 +15,7 @@ language = 'en'
 
 # Passing the text and language to the engine,
 # here we have marked slow=False. Which tells
-# the module that the converted audio should
+
 # have a high speed
 myobj = gTTS(text=mytext, lang=language, slow=False)
 
