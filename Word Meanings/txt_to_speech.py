@@ -3,8 +3,8 @@
 # to speech conversion
 from gtts import gTTS
 
-# This module is imported so that we can
-# play the converted audio
+
+
 import os
 
 # The text that you want to convert to audio
