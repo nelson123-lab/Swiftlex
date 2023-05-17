@@ -1,5 +1,6 @@
 from PyDictionary import PyDictionary
 # Meaning of Word using dictionary1
+a = input('Enter word')
 dictionary1 = PyDictionary()
 # Finding Synonym using Dictionary1
 print(dictionary1.meaning('Archive'))
