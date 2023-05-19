@@ -16,3 +16,6 @@ Deployment: Once your model is trained and evaluated, you can deploy it for text
 It's important to note that fine-tuning LLMs requires significant computational resources, and you may need a large amount of annotated data for optimal performance. Additionally, keep in mind the ethical considerations and potential biases associated with text summarization.
 
 Several libraries and frameworks, such as Hugging Face's Transformers, provide pre-trained models and tools to simplify the process of training and using LLMs for text summarization. You can refer to their documentation and example code for more detailed guidance on fine-tuning models for specific tasks.
+
+References;
+https://lablab.ai/t/cohere-chat-summarizer
