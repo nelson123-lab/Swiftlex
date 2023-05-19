@@ -1,6 +1,6 @@
 Here we are going to use BART to do the Text Summarization.
-Steps involved
-To use large language models (LLMs) for text summarization, you can fine-tune a pre-trained model on a summarization dataset. Here's a general overview of the steps involved:
+Steps involved for implementing a SUmmarization technique are:- 
+1. To use large language models (LLMs) for text summarization, you can fine-tune a pre-trained model on a summarization dataset. Here's a general overview of the steps involved:
 
 Dataset: Obtain a suitable dataset for text summarization. This dataset should consist of pairs of source texts (longer documents) and their corresponding summaries (shorter texts). Commonly used datasets for text summarization include CNN/DailyMail, Gigaword, or custom domain-specific datasets.
 
