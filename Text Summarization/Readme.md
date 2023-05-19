@@ -5,7 +5,7 @@ Dataset: Obtain a suitable dataset for text summarization. This dataset should c
 
 Preprocessing: Preprocess the dataset by tokenizing the texts, removing unnecessary elements (e.g., HTML tags, special characters), and converting the texts into a format suitable for model training. You can use libraries like NLTK or spaCy for tokenization and preprocessing tasks.
 
-Model Selection: Choose a pre-trained LLM suitable for text summarization tasks. Transformers models like BART, T5, or Pegasus are often used for this purpose due to their encoder-decoder architectures.
+qModel Selection: Choose a pre-trained LLM suitable for text summarization tasks. Transformers models like BART, T5, or Pegasus are often used for this purpose due to their encoder-decoder architectures.
 
 Fine-tuning: Fine-tune the selected LLM using the preprocessed dataset. This step involves training the model on the source texts and teaching it to generate accurate summaries. The fine-tuning process typically requires a powerful GPU and can take a significant amount of time.
 
