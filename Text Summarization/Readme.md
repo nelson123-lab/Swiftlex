@@ -4,7 +4,7 @@ Steps involved for implementing a SUmmarization technique are:-
 
 2. Dataset: Obtain a suitable dataset for text summarization. This dataset should consist of pairs of source texts (longer documents) and their corresponding summaries (shorter texts). Commonly used datasets for text summarization include CNN/DailyMail, Gigaword, or custom domain-specific datasets.
 
-Preprocessing: Preprocess the dataset by tokenizing the texts, removing unnecessary elements (e.g., HTML tags, special characters), and converting the texts into a format suitable for model training. You can use libraries like NLTK or spaCy for tokenization and preprocessing tasks.
+3. Preprocessing: Preprocess the dataset by tokenizing the texts, removing unnecessary elements (e.g., HTML tags, special characters), and converting the texts into a format suitable for model training. You can use libraries like NLTK or spaCy for tokenization and preprocessing tasks.
 
 qModel Selection: Choose a pre-trained LLM suitable for text summarization tasks. Transformers models like BART, T5, or Pegasus are often used for this purpose due to their encoder-decoder architectures.
 
