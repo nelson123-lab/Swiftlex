@@ -19,3 +19,4 @@ for code in language_codes:
     print(f"{code}: {language_name}")
 
 # It fails to give chineese language abbreviations.
+# zh-tw and zh-cn   are not supported.
