@@ -3,3 +3,5 @@ pip install gTTS
 pip install PyDictionary
 pip install langdetect
 pip install iso-639
+pip install opencv-python
+pip install pytesseract
