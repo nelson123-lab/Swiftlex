@@ -2,7 +2,45 @@
 <div align="center"><img src="https://github.com/nelson123-lab/Swiftlex/blob/2c25f607d8bab39e6d34494557d85709cfe645a7/Asset%201.png" width="900"/></div>
 
 ## Overview
-An AI powered chrome extension that is capable of doing everything you need as a reader.
+Swiftlex is an AI powered chrome extension that is capable of doing everything you need as a reader.
+
+## Introduction: 
+
+Provide a brief overview of what your software does. This should be a high-level summary that gives readers a basic understanding of your software's purpose.
+
+## Features: 
+
+List the key features of your software. Explain what each feature does and how it benefits the user. This could be in the form of bullet points for clarity.
+
+## Technical Details: 
+
+Describe the technologies used in the development of the software. This could include programming languages, frameworks, libraries, databases, etc. Also, mention the architecture and design patterns used.
+
+## User Guide: 
+
+Explain how to use your software. This could include installation instructions, how to navigate the user interface, and how to use each feature. Screenshots or video tutorials can be very helpful here.
+
+## Use Cases: 
+
+Describe some scenarios where your software would be useful. This helps potential users understand if your software is right for their needs.
+Performance: If applicable, provide details about the performance of your software. This could include information about speed, efficiency, and resource usage.
+
+## Security: 
+
+Discuss any security features your software has. This is especially important if your software handles sensitive data.
+Compatibility: Mention the platforms and environments your software is compatible with. This could include operating systems, web browsers, hardware requirements, etc.
+
+## Updates and Maintenance: 
+
+Explain how often updates are released and how users can get them. Also, discuss your plans for future updates.
+
+## Support: 
+
+Provide information on how users can get support if they encounter issues. This could include a support email, a FAQ page, or a user forum.
+
+## Pricing: 
+
+If your software is commercial, provide details about the pricing model. This could include one-time purchase costs, subscription fees, or in-app purchases.
 
 Chrome extensions are typically developed using JavaScript and HTML, but it is possible to use Python to develop a Chrome extension with the help of external tools and libraries. Here are the general steps to create a Chrome extension using Python:
 
