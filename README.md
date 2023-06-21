@@ -1,4 +1,7 @@
-# Live_dictionary_chrome_extension
+# Swiftlex
+<div align="center"><img src="https://github.com/nelson123-lab/Gender_based_cleaning_algorithm/blob/74da94d77c0da72f5769494e3df7320510bcbc7e/Data/All%20Gender%20(1).png" width="900"/></div>
+
+
 Steps in creation of chrome extension:-
 
 Chrome extensions are typically developed using JavaScript and HTML, but it is possible to use Python to develop a Chrome extension with the help of external tools and libraries. Here are the general steps to create a Chrome extension using Python:
