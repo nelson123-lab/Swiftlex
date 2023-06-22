@@ -8,40 +8,40 @@ Swiftlex is an AI powered chrome extension that is capable of doing everything y
 
 Swiftlex offers a comprehensive suite of language processing tools designed to enhance the reading experience. It seamlessly integrates a dictionary, vocabulary builder, text summarization, pronunciation guide, language translation, and optical character recognition capabilities. This allows users to access these features without diverting their attention from the page they are currently engaged with. Swiftlex's mission is to streamline the reading process, making it more efficient and immersive, thereby fostering a more profound understanding and appreciation of the text.
 
-## Features: 
+## Features: Under Construction
 
 List the key features of your software. Explain what each feature does and how it benefits the user. This could be in the form of bullet points for clarity.
 
-## Technical Details: 
+## Technical Details: Under Construction
 
 Describe the technologies used in the development of the software. This could include programming languages, frameworks, libraries, databases, etc. Also, mention the architecture and design patterns used.
 
-## User Guide: 
+## User Guide: Under Construction
 
 Explain how to use your software. This could include installation instructions, how to navigate the user interface, and how to use each feature. Screenshots or video tutorials can be very helpful here.
 
-## Use Cases: 
+## Use Cases: Under Construction
 
 Describe some scenarios where your software would be useful. This helps potential users understand if your software is right for their needs.
 Performance: If applicable, provide details about the performance of your software. This could include information about speed, efficiency, and resource usage.
 
-## Security: 
+## Security: Under Construction
 
 Discuss any security features your software has. This is especially important if your software handles sensitive data.
 Compatibility: Mention the platforms and environments your software is compatible with. This could include operating systems, web browsers, hardware requirements, etc.
 
-## Updates and Maintenance: 
+## Updates and Maintenance: Under Construction
 
 Explain how often updates are released and how users can get them. Also, discuss your plans for future updates.
 - Live translation of the word or sentences to different languages
 - Corresponding speech for the sentence or words.
 - Dragging feature similar to dropbox for selecting the text in a specific area.
 
-## Support: 
+## Support: Under Construction
 
 Provide information on how users can get support if they encounter issues. This could include a support email, a FAQ page, or a user forum.
 
-## Pricing: 
+## Pricing: Under Construction
 
 If your software is commercial, provide details about the pricing model. This could include one-time purchase costs, subscription fees, or in-app purchases.
 
