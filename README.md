@@ -6,7 +6,7 @@ Swiftlex is an AI powered chrome extension that is capable of doing everything y
 
 ## Introduction: 
 
-Provide a brief overview of what your software does. This should be a high-level summary that gives readers a basic understanding of your software's purpose.
+Swiftlex offers a comprehensive suite of language processing tools designed to enhance the reading experience. It seamlessly integrates a dictionary, vocabulary builder, text summarization, pronunciation guide, language translation, and optical character recognition capabilities. This allows users to access these features without diverting their attention from the page they are currently engaged with. Swiftlex's mission is to streamline the reading process, making it more efficient and immersive, thereby fostering a more profound understanding and appreciation of the text.
 
 ## Features: 
 
