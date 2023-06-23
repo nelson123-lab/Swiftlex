@@ -8,9 +8,32 @@ Swiftlex is an AI powered chrome extension that is capable of doing everything y
 
 Swiftlex offers a comprehensive suite of language processing tools designed to enhance the reading experience. It seamlessly integrates a dictionary, vocabulary builder, text summarization, pronunciation guide, language translation, and optical character recognition capabilities. This allows users to access these features without diverting their attention from the page they are currently engaged with. Swiftlex's mission is to streamline the reading process, making it more efficient and immersive, thereby fostering a more profound understanding and appreciation of the text.
 
-## Features: Under Construction
+## Features: 
 
-List the key features of your software. Explain what each feature does and how it benefits the user. This could be in the form of bullet points for clarity.
+1.  Integrated Dictionary:
+    - Swiftlex provides an integrated dictionary, allowing users to look up definitions without leaving their current webpage. This            feature enhances comprehension and saves time by eliminating the need to navigate to a separate dictionary site.
+
+2.  Vocabulary Builder:
+    - The extension includes a vocabulary builder that helps users expand their language skills. It suggests new words and phrases based       on the content of the page, promoting continuous learning.
+
+3.  Text Summarization:
+    -  Swiftlex's text summarization feature distills lengthy articles or documents into concise summaries. This allows users to quickly        grasp the main points of a text, improving efficiency and comprehension.
+
+4.  Pronunciation Guide:
+    -  The extension offers a pronunciation guide, helping users learn how to correctly pronounce unfamiliar words. This feature                supports language learning and enhances communication skills.
+
+5.  Language Translation:
+    - Swiftlex includes a language translation feature, making it easy for users to translate text into their               preferred          language. This feature supports multilingual users and aids in understanding foreign language content.
+
+6.  Optical Character Recognition (OCR):
+    -  The OCR feature allows users to extract text from images, making it accessible for further processing like translation or                definition lookup. This feature is particularly useful for users dealing with a lot of image-based text content.
+
+7.  Language Translation:
+    -  Swiftlex is equipped with a robust language translation feature. This tool allows users to translate text from 
+       one language to another directly within their current webpage. Whether you're reading an article in a foreign language or 
+       encountering unfamiliar phrases, this feature can instantly translate the text into your preferred language. This not only aids 
+       in comprehension but also supports multilingual users, making the web a more accessible place. The language translation feature 
+       is a testament to Swiftlex's commitment to breaking down language barriers and enhancing the user's browsing experience.
 
 ## Technical Details: Under Construction
 
