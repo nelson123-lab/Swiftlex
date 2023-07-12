@@ -12,5 +12,5 @@
     "48": "./icons/icon48.png",
     "128": "./icons/icon128.png"
   },
-  "permissions": ["webNavigation", "system.storage", "desktopCapture", "tabs"]
+  "permissions": ["webNavigation", "system.storage", "desktopCapture", "tabs", "activeTab", "storage", "identity", "webRequest", "webRequestBlocking"]
 }
